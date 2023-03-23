@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CircStats"]
+	path = CircStats
+	url = https://github.com/cran/CircStats
+	shallow = true
+	registered = true
+[submodule "GSE"]
+	path = GSE
+	url = https://github.com/cran/GSE
+	shallow = true
+	registered = true
+[submodule "poissonMT"]
+	path = poissonMT
+	url = https://github.com/cran/poissonMT
+	shallow = true
+	registered = true
+[submodule "robustsur"]
+	path = robustsur
+	url = https://github.com/cran/robustsur
+	shallow = true
+	registered = true
+[submodule "robustvarComp"]
+	path = robustvarComp
+	url = https://github.com/cran/robustvarComp
+	shallow = true
+	registered = true
