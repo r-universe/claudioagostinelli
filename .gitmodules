@@ -8,9 +8,6 @@
 [submodule "GSE"]
 	path = GSE
 	url = https://github.com/cran/GSE
-[submodule "poissonMT"]
-	path = poissonMT
-	url = https://github.com/cran/poissonMT
 [submodule "robustsur"]
 	path = robustsur
 	url = https://github.com/cran/robustsur
