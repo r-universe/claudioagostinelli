@@ -8,6 +8,9 @@
 [submodule "GSE"]
 	path = GSE
 	url = https://github.com/cran/GSE
+[submodule "robreg3S"]
+	path = robreg3S
+	url = https://github.com/cran/robreg3S
 [submodule "robustsur"]
 	path = robustsur
 	url = https://github.com/cran/robustsur
